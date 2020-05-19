@@ -1,0 +1,65 @@
+/*CSS DOCUMENT*/
+
+img {
+    align-content: center;
+    width: 70%;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+h1 {
+    align-content: left;
+}
+
+h2 {
+    font-family: avenir;
+    font-size: 2em;
+    text-align: center;
+    font-weight: normal;
+}
+
+nav {
+    font-family: avenir;
+    color: #73e6f9;
+    font-size: 1em;
+    text-align: center;
+    font-weight: normal;
+    width: 50%;
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-bottom: 2em;
+}
+
+h3 {
+    font-family: avenir;
+    color: #73e6f9;
+    font-size: 1.5em;
+    text-align: center;
+    font-weight: normal;
+}
+
+h4 {
+    font-family: avenir;
+    font-size: 1em;
+    text-align: center;
+    font-weight: normal;
+}
+
+p {
+    font-family: avenir;
+    font-size: 1em;
+    text-align: center;
+    font-weight: lighter;
+}
+
+ul {
+    font-family: avenir;
+    font-size: 1em;
+    text-align: center;
+    font-weight: lighter;
+    list-style: none;
+}
