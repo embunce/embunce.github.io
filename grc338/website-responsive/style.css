@@ -1,0 +1,86 @@
+/*CSS DOCUMENT*/
+
+img {
+    align-content: center;
+    width: 80%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+h1 {
+    align-content: left;
+}
+
+h2 {
+    font-family: avenir;
+    font-size: 2em;
+    text-align: center;
+    font-weight: normal;
+}
+
+nav {
+    font-family: avenir;
+    font-size: 1em;
+    text-align: center;
+    font-weight: normal;
+    width: 50%;
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-bottom: 2em;
+}
+
+a   {
+    font-family: avenir;
+    text-decoration: none;
+    padding-left: 1em;
+    padding-right: 1em;
+    color: #146614;  
+}
+
+h3 {
+    font-family: avenir;
+    color: #146614;
+    font-size: 1.5em;
+    text-align: center;
+    font-weight: normal;
+}
+
+h4 {
+    font-family: avenir;
+    font-size: 1em;
+    text-align: center;
+    font-weight: normal;
+}
+
+p {
+    font-family: avenir;
+    font-size: 1em;
+    text-align: center;
+    font-weight: lighter;
+}
+
+ul {
+    font-family: avenir;
+    font-size: 1em;
+    text-align: center;
+    font-weight: lighter;
+    list-style: none;
+}
+
+.menu-div {
+    font-family: avenir;
+    font-size: 1em;
+    text-align: center;
+    font-weight: lighter;
+    list-style: none;
+}
